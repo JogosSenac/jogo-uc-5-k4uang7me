@@ -8,6 +8,8 @@ TagManager:
   - Chao
   - "Ch\xE3o"
   - Imagens
+  - dagger
+  - daggerUIImage
   layers:
   - Default
   - TransparentFX
