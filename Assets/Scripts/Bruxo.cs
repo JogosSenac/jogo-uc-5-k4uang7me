@@ -43,19 +43,22 @@ public class Player2 : MonoBehaviour
         if(Input.GetKey(KeyCode.D) && moveH > 0)
         {
             sprite.flipX = false;
-            //anim.SetLayerWeight(?,?);
+           anim.SetLayerWeight(0,1);
+           anim.SetLayerWeight(1,0);
             
         }
         
         if(Input.GetKey(KeyCode.A) && moveH < 0)
         {
             sprite.flipX = true;
-            //anim.SetLayerWeight(?,?);
+           anim.SetLayerWeight(0,1);
+           anim.SetLayerWeight(1,0);
         }
         
         if(moveH == 0)
         {
-            
+            anim.SetLayerWeight(1,1);
+            anim.SetLayerWeight(0,0);
         }
         
 
@@ -76,4 +79,6 @@ public class Player2 : MonoBehaviour
         }
         
     }
+
+  
 }

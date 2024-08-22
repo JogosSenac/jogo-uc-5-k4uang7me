@@ -4926,27 +4926,27 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 640292864560860070, guid: 61f1c8f53ea5696468e89b58fe6d294b, type: 3}
       propertyPath: sceneToLoad
-      value: Iniciar1
+      value: gameover1
       objectReference: {fileID: 0}
     - target: {fileID: 1309470703116911991, guid: 61f1c8f53ea5696468e89b58fe6d294b, type: 3}
       propertyPath: sceneToLoad
-      value: Iniciar1
+      value: gameover1
       objectReference: {fileID: 0}
     - target: {fileID: 1366469124836690973, guid: 61f1c8f53ea5696468e89b58fe6d294b, type: 3}
       propertyPath: sceneToLoad
-      value: Iniciar1
+      value: gameover1
       objectReference: {fileID: 0}
     - target: {fileID: 1444752055823286421, guid: 61f1c8f53ea5696468e89b58fe6d294b, type: 3}
       propertyPath: sceneToLoad
-      value: Iniciar1
+      value: gameover1
       objectReference: {fileID: 0}
     - target: {fileID: 1472712216329138780, guid: 61f1c8f53ea5696468e89b58fe6d294b, type: 3}
       propertyPath: sceneToLoad
-      value: Iniciar1
+      value: gameover1
       objectReference: {fileID: 0}
     - target: {fileID: 1480710260743492927, guid: 61f1c8f53ea5696468e89b58fe6d294b, type: 3}
       propertyPath: sceneToLoad
-      value: Iniciar1
+      value: gameover1
       objectReference: {fileID: 0}
     - target: {fileID: 1607655454186173716, guid: 61f1c8f53ea5696468e89b58fe6d294b, type: 3}
       propertyPath: m_LocalPosition.x
@@ -4958,11 +4958,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2404023800947100664, guid: 61f1c8f53ea5696468e89b58fe6d294b, type: 3}
       propertyPath: sceneToLoad
-      value: Iniciar1
+      value: gameover1
       objectReference: {fileID: 0}
     - target: {fileID: 3065618695473541500, guid: 61f1c8f53ea5696468e89b58fe6d294b, type: 3}
       propertyPath: sceneToLoad
-      value: Iniciar1
+      value: gameover1
       objectReference: {fileID: 0}
     - target: {fileID: 3309961414443887333, guid: 61f1c8f53ea5696468e89b58fe6d294b, type: 3}
       propertyPath: m_LocalPosition.x
@@ -4974,15 +4974,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4238743234740706595, guid: 61f1c8f53ea5696468e89b58fe6d294b, type: 3}
       propertyPath: sceneToLoad
-      value: Iniciar1
+      value: gameover1
       objectReference: {fileID: 0}
     - target: {fileID: 4536902669063943088, guid: 61f1c8f53ea5696468e89b58fe6d294b, type: 3}
       propertyPath: sceneToLoad
-      value: Iniciar1
+      value: gameover1
       objectReference: {fileID: 0}
     - target: {fileID: 4639923934374964565, guid: 61f1c8f53ea5696468e89b58fe6d294b, type: 3}
       propertyPath: sceneToLoad
-      value: Iniciar1
+      value: gameover1
       objectReference: {fileID: 0}
     - target: {fileID: 5012388927916996789, guid: 61f1c8f53ea5696468e89b58fe6d294b, type: 3}
       propertyPath: m_LocalPosition.x
@@ -5034,15 +5034,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5503119236801270204, guid: 61f1c8f53ea5696468e89b58fe6d294b, type: 3}
       propertyPath: sceneToLoad
-      value: Iniciar1
+      value: gameover1
       objectReference: {fileID: 0}
     - target: {fileID: 5834099247807298528, guid: 61f1c8f53ea5696468e89b58fe6d294b, type: 3}
       propertyPath: sceneToLoad
-      value: Iniciar1
+      value: gameover1
       objectReference: {fileID: 0}
     - target: {fileID: 5925490833272638487, guid: 61f1c8f53ea5696468e89b58fe6d294b, type: 3}
       propertyPath: sceneToLoad
-      value: Iniciar1
+      value: gameover1
       objectReference: {fileID: 0}
     - target: {fileID: 5968866643303833734, guid: 61f1c8f53ea5696468e89b58fe6d294b, type: 3}
       propertyPath: m_LocalPosition.x
@@ -5066,7 +5066,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7814830806301976966, guid: 61f1c8f53ea5696468e89b58fe6d294b, type: 3}
       propertyPath: sceneToLoad
-      value: Iniciar1
+      value: gameover1
       objectReference: {fileID: 0}
     - target: {fileID: 7965371301303291441, guid: 61f1c8f53ea5696468e89b58fe6d294b, type: 3}
       propertyPath: m_LocalPosition.x
@@ -5078,7 +5078,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8085079605631970338, guid: 61f1c8f53ea5696468e89b58fe6d294b, type: 3}
       propertyPath: sceneToLoad
-      value: Iniciar1
+      value: gameover1
       objectReference: {fileID: 0}
     - target: {fileID: 8436976275146332692, guid: 61f1c8f53ea5696468e89b58fe6d294b, type: 3}
       propertyPath: m_LocalPosition.x

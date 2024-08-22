@@ -12,6 +12,15 @@ public class Menu : MonoBehaviour
     {
         SceneManager.LoadScene("Cutscene");
     }
+        public void gameover()
+    {
+        SceneManager.LoadScene("iniciar");
+    }
+
+            public void gameover1()
+    {
+        SceneManager.LoadScene("iniciar1");
+    }
 
         public void Cutscene()
     {
